@@ -1,5 +1,8 @@
 ## Hi there 👋
 🚀 Skills & Technologies
+### Languages
+![JavaScript]
+![Java]
 <!--
 **kishorknight/kishorknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
