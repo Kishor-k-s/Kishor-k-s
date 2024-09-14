@@ -16,11 +16,11 @@ I’m a passionate Data Science & Machine Learning Enthusiast, driven to transfo
 
 ## 🛠️ Other Tools
 
-![Git Badge](https://img.shields.io/badge/Git-black)
-![VS Code Badge](https://img.shields.io/badge/VS_Code-blue)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter_Notebook-yellow)
-![Anaconda Badge](https://img.shields.io/badge/Anaconda-green)
-![PyCharm Badge](https://img.shields.io/badge/PyCharm-orange)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 ## 📫 How to Reach Me
