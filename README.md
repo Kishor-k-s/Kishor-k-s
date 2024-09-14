@@ -14,6 +14,15 @@ I’m a passionate Data Science & Machine Learning Enthusiast, driven to transfo
 ### Frontend Development
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 
+## 🛠️ Other Tools
+
+![Git Badge](https://img.shields.io/badge/Git-black)
+![VS Code Badge](https://img.shields.io/badge/VS_Code-blue)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter_Notebook-yellow)
+![Anaconda Badge](https://img.shields.io/badge/Anaconda-green)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-orange)
+
+
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorknight)
