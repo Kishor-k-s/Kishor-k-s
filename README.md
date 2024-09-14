@@ -1,8 +1,7 @@
 ## Hi there 👋
 🚀 Skills & Technologies
 ### Languages
-![JavaScript]
-![Java]
+<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python Badge"/> <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" alt="SQL Badge"/> <img src="https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=scikit-learn" alt="Machine Learning Badge"/> <img src="https://img.shields.io/badge/-Data_Visualization-333333?style=flat&logo=plotly" alt="Data Visualization Badge"/> <img src="https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv" alt="OpenCV Badge"/>
 <!--
 **kishorknight/kishorknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
